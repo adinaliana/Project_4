@@ -27,10 +27,12 @@ I utilized PyCharm as my Integrated Development Environment (IDE) to write and m
 
 ![](screenshots/1.png)
 
+
 ### Target Configuration:
 To test the functionality of the scanner, I configured the script to target the Metasploitable2 virtual machine by hardcoding its IP address within the `ip` variable. This allowed for immediate testing against a known vulnerable environment.
 
 ![](screenshots/2.png)
+
 
 ### Executing the Scanner and Results:
 Upon running the Python script, it systematically scanned a predefined range of ports (1 to 65535) on Metasploitable2. The script successfully identified and reported all open ports on the target, validating its functionality.
