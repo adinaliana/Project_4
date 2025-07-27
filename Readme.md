@@ -43,7 +43,7 @@ Upon running the Python script, it systematically scanned a predefined range of 
 
 ```python
 
-# import sys, import socket, import pyfiglet: Imports necessary modules. sys for system-specific parameters and functions (like stdout.flush), socket for network connections, and pyfiglet for generating ASCII art
+# import sys, import socket, import pyfiglet: Imports necessary modules. sys for system-specific parameters and functions \n (like stdout.flush), socket for network connections, and pyfiglet for generating ASCII art
 import sys
 import socket
 import pyfiglet
