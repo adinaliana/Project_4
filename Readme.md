@@ -25,7 +25,7 @@
 ### Script Development Environment:
 I utilized PyCharm as my Integrated Development Environment (IDE) to write and manage the Python script. PyCharm offers excellent features for code completion, debugging, and project organization.
 
-![](screenshots/2.png)
+![](screenshots/1.png)
 
 ### Target Configuration:
 To test the functionality of the scanner, I configured the script to target the Metasploitable2 virtual machine by hardcoding its IP address within the `ip` variable. This allowed for immediate testing against a known vulnerable environment.
